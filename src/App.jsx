@@ -1,19 +1,15 @@
-import Description from "./components /Description"
+import { Outlet } from "react-router"
 import Footer from "./components /Footer"
-import Intro from "./components /Introduction"
 import Navbar from "./components /Navbar"
-import WhyUS from "./components /WhyUs"
-import Assets from "./components /AssetClasses"
 
 function App() {
 
   return (
     <>
     <Navbar/>
-    <Intro />
-    <WhyUS/>
-    <Description/>
-    <Assets />
+    <main>
+      <Outlet />
+    </main>
     <Footer/>
     </>
   )

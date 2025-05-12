@@ -1,8 +1,11 @@
+import WhyUS from "./WhyUs" 
 function Intro(){
     return(
         <>
         <section id= "Introduction"
         className="pt-4">
+            <h1
+            className="text-2xl text-center">Welcome to PAAB Capital</h1>
             <p>
             PAAB Capital is a regulated investment company domiciled in Kenya,
             specializing in delivering optimized returns to clients, regardless of market
@@ -25,6 +28,7 @@ function Intro(){
             </p>
 
         </section>
+        <WhyUS />
         </>
     )
 }
