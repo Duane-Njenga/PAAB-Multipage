@@ -1,14 +1,17 @@
 function WhyUS(){
     return(
         <>
-        <section id ="WhyUs">
-            <p>
+        <section id ="WhyUs"
+        >
+            <p
+            className="pt-4">
             “At PAAB Capital, we don’t just manage money — we unlock destiny. As the
             financial powerhouse under PAAB Inc, we offer a unique blend of
             investments, savings, advisory, partnerships, and wealth management,
             tailored to transform both individual lives and institutions.
             </p>
-            <p>
+            <p
+            className="pt-4">
             Unlike fintech startups that focus on narrow slices of the market, PAAB
             Capital integrates institutional-grade solutions with retail accessibility,
             backed by cutting-edge technology and human expertise.

@@ -1,7 +1,8 @@
 function Intro(){
     return(
         <>
-        <section id= "Introduction">
+        <section id= "Introduction"
+        className="pt-4">
             <p>
             PAAB Capital is a regulated investment company domiciled in Kenya,
             specializing in delivering optimized returns to clients, regardless of market
@@ -10,7 +11,9 @@ function Intro(){
             growth for our clients.
             </p>
             
-            <p>
+            <p
+            className="pt-4"
+            >
             PAAB Capital is more than an investment company — it is the portal
             through which wealth flows to new dimensions. Inspired by the vision of
             “places above and beyond,” PAAB Capital empowers clients to transcend
