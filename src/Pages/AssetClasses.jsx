@@ -29,7 +29,7 @@ function Assets(){
                     <p>PAAB Capital offers trading and investment opportunities in the following
                     global markets:
                     </p>
-                    <ul>
+                    <ul className="list-disc pl-6 space-y-1 my-2">
                         <li><b>Currency Trading</b></li>
                         <li><b>Precious Metals</b></li>
                         <li><b>Commodities</b></li>
@@ -48,7 +48,7 @@ function Assets(){
                     <p>PAAB Capital also offers investment opportunities in the following local
                     markets:
                     </p>
-                    <ul>
+                    <ul className="list-disc pl-6 space-y-1 my-2">
                         <li><b>Government Securities</b></li>
                         <li><b>Cash & Cash Equivalents</b></li>
                         <li><b>NSE Derivatives</b></li>
@@ -58,21 +58,21 @@ function Assets(){
                 </div>
             </div>
             <div
-            className="border-2 rounded-md pt"
+            className="border-2 rounded-md p-1.5"
             >
                 <h3
                 className="text-xl underline"
                 ><b>Asset Allocation</b></h3>
                 <p>PAAB Capital's asset allocation is as follows:
                 </p>
-                <ul>
-                    <li><b>Government Securities:</b>60%</li>
-                    <li><b>Cash & Cash Equivalents:</b>15%</li>
-                    <li><b>Derivatives:</b>5%</li>
-                    <li><b>Sovereign Bonds:</b>6%</li>
-                    <li><b>NSE Securities:</b>4%</li>
-                    <li><b>International Equities:</b>1%</li>
-                    <li><b>Total:</b>100%</li>
+                <ul className="list-disc pl-6 space-y-1 my-2">
+                    <li><b>Government Securities:</b> 60%</li>
+                    <li><b>Cash & Cash Equivalents:</b> 15%</li>
+                    <li><b>Derivatives:</b> 5%</li>
+                    <li><b>Sovereign Bonds:</b> 6%</li>
+                    <li><b>NSE Securities:</b> 4%</li>
+                    <li><b>International Equities:</b> 1%</li>
+                    <li><b>Total:</b> 100%</li>
                 </ul>
             </div>
             <p
