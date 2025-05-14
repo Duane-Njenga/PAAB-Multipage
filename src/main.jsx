@@ -4,8 +4,8 @@ import { createBrowserRouter, RouterProvider } from "react-router";
 import routes from "../routes";
 import "./index.css"
 
-const router = createBrowserRouter(routes, {
-  basename: process.env.PUBLIC_URL, 
+const router = createBrowserRouter(routes,{
+  basename:"/PAAB-Multipage"
 })
 const root = document.getElementById("root");
 
