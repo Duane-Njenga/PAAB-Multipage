@@ -1,5 +1,6 @@
 {
   "name": "paab",
+  "private": true,
   "homepage": "https://duane-njenga.github.io/PAAB-Multipage/",
   "version": "0.0.0",
   "type": "module",
