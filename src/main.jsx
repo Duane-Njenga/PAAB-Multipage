@@ -4,7 +4,9 @@ import { createBrowserRouter, RouterProvider } from "react-router";
 import routes from "../routes";
 import "./index.css"
 
-const router = createBrowserRouter(routes)
+const router = createBrowserRouter(routes, {
+  basename: process.env.PUBLIC_URL, 
+})
 const root = document.getElementById("root");
 
 ReactDOM.createRoot(root).render(
