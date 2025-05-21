@@ -1,8 +1,7 @@
-import Assets from "./src/Pages/AssetClasses";
-import Description from "./src/Pages/Description";
-import Intro from "./src/Pages/Introduction";
+import Intro from "./src/Pages/Home1";
 import App from "./src/App";
 import ErrorPage from "./src/Pages/ErrorPage";
+import FAQs from "./src/Pages/FAQs";
 
 const routes = [
     {
@@ -15,12 +14,8 @@ const routes = [
                 element:<Intro/>
             },
             {
-                path:"/CompanyDescription",
-                element:<Description />
-            },
-            {
-                path:"/AssetClasses",
-                element:<Assets />
+                path:"/FAQs",
+                element:<FAQs />
             },
         ]
 
