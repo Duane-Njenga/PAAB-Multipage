@@ -11,29 +11,31 @@ function Intro(){
               Unlock the Portals of Wealth Transfer
             </h1>
           </header>
+          <div className="w-full bg-gray-200 rounded-2xl">
           <ul
-            className="list-disc list-inside mb-2 text-lg ml-2"
+            className="list-disc list-inside mb-2 text-lg ml-2 "
           >     
             <li>Begin your Wealth Journey</li>
             <li>Explore Our Services</li>
-          </ul>    
-           
-          <h2
-            className ="text-center text-2xl underline font-bold"
-          >About PAAB Capital</h2>
-          
+            </ul> 
+          </div >
+          <div className="mb-6 mt-4">
+            <h2
+              className ="text-center text-2xl underline font-bold"
+            >About PAAB Capital</h2>
+            
 
-          <p className="pt-4">
-          PAAB Capital is a distinguished wealth management and financial advisory firm, established to guide clients through the divine portals of wealth transfer.
-          Rooted in trust, legacy, and spiritual intelligence, we deliver tailored investment, advisory, and capital solutions that go beyond profit into purpose, impact, and generational prosperity.
-          <b>Formed in December 2022</b>, PAAB Capital was birthed through divine insight that the mountain and kingdom of wealth and finance must be occupied by the Church.
-          Our mandate is clear: to build structures that align with heaven's economy, equipping kingdom-minded individuals and institutions to take territory in the financial world.
-          <b>At PAAB Capital, we don’t just manage money — we unlock destiny.</b> As the financial powerhouse under <b>PAAB Inc</b>, we offer a unique blend of<b> investments, savings, advisory,
-          partnerships, and wealth management,</b> tailored to transform both individual lives and institutions.
-          With a unique blend of modern financial expertise, timeless principles, and prophetic clarity, we empower our clients to steward wealth with wisdom and boldness in a shifting
-          global economy. 
-          </p>
-
+            <p className="pt-4">
+            PAAB Capital is a distinguished wealth management and financial advisory firm, established to guide clients through the divine portals of wealth transfer.
+            Rooted in trust, legacy, and spiritual intelligence, we deliver tailored investment, advisory, and capital solutions that go beyond profit into purpose, impact, and generational prosperity.
+            <b>Formed in December 2022</b>, PAAB Capital was birthed through divine insight that the mountain and kingdom of wealth and finance must be occupied by the Church.
+            Our mandate is clear: to build structures that align with heaven's economy, equipping kingdom-minded individuals and institutions to take territory in the financial world.
+            <b>At PAAB Capital, we don’t just manage money — we unlock destiny.</b> As the financial powerhouse under <b>PAAB Inc</b>, we offer a unique blend of<b> investments, savings, advisory,
+            partnerships, and wealth management,</b> tailored to transform both individual lives and institutions.
+            With a unique blend of modern financial expertise, timeless principles, and prophetic clarity, we empower our clients to steward wealth with wisdom and boldness in a shifting
+            global economy. 
+            </p>
+          </div>
           <div
             className="flex flex-wrap gap-6">
             <div className="max-w-sm bg-white rounded-2xl shadow-md shadow-gray-500 p-6">

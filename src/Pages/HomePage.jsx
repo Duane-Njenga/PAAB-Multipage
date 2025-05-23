@@ -74,7 +74,7 @@ function HomePage() {
             We are a Kingdom-driven investment company under PAAB Inc., with a bold vision to empower individuals, businesses, and institutions to walk in financial dominion. 
           </p>
           </div>
-          <div className="flex flex-wrap gap-6">
+          <div className="flex flex-wrap gap-6 mt-6 mb-6">
             <div className="max-w-sm bg-white rounded-2xl shadow-md shadow-gray-500 p-6">
               <h2 class="text-xl font-semibold text-purple-800 mb-2"
               >Vision Statement 

@@ -136,8 +136,8 @@ function UnitTrustFundPage() {
                       onClick={() => setExpandedFaq(expandedFaq === index ? null : index)}
                       className="w-full text-left p-6 hover:bg-purple-50 transition-colors"
                     >
-                      <div className="flex justify-between items-center">
-                        <h3 className="text-lg font-semibold text-gray-800">{faq.question}</h3>
+                      <div className= "flex justify-between items-center" >
+                        <h3 className={`text-lg font-semibold text-gray-800 ${expandedFaq ===index ?"text-purple-600" :""}`}>{faq.question}</h3>
                         <span className="text-2xl text-purple-600">
                           {expandedFaq === index ? '−' : '+'}
                         </span>
