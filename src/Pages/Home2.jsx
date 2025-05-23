@@ -4,7 +4,7 @@ import TestimonialSection from "../components /Testimonials";
 function Home2(){
     return(
         <>
-            <div className="pl-2.5">
+            <div className="pl-2.5" id="team">
                 <h1
                 className="text-2xl underline"
                 >Meet The Team</h1>
