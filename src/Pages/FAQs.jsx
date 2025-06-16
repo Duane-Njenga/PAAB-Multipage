@@ -1,4 +1,4 @@
-import FAQComponent from "../components /FAQComponent";
+import FAQComponent from "../components/FAQComponent";
 
 const faqs = [
   {

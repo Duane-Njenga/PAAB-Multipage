@@ -38,6 +38,8 @@ function Footer() {
           <p>We’re here to walk with you through the Portals of Wealth Transfer.</p>
           <p className="mt-2 font-medium">PAAB Capital Headquarters</p>
           <p>PAAB Capital (K) Limited</p>
+          <p className="mt-2 font-semibold">📞 +254782176503</p>
+          <h3 className="underline font-bold">Address:</h3>
           <p>New Hope House</p>
           <p>Along Ole Sangale Rd. Opp Strathmore Gate D, Madaraka</p>
           <p>Nairobi, Kenya</p>

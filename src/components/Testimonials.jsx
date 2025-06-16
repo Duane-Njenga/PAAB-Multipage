@@ -2,24 +2,28 @@ const testimonials = [
   {
     name: "Grace M.",
     title: "Business Owner",
+    category:"General",
     quote:
       "Working with PAAB Capital has not only grown my investments — it has restored my confidence in divine financial alignment. They are not just managers of money, but ministers of destiny.",
   },
   {
     name: "Michael K.",
     title: "CEO & Entrepreneur",
+    category:"General",
     quote:
       "From the first consultation, I knew PAAB Capital was different. Their insight and strategy gave my company new momentum — both financially and spiritually.",
   },
   {
     name: "Angela N.",
     title: "Young Investor & Kingdom Builder",
+    category:"General",
     quote:
       "Their mentorship and training changed my view of money. I now see wealth as a tool for purpose, and I’m walking in greater freedom because of it.",
   },
   {
     name: "Joseph O.",
     title: "Institutional Partner",
+    category:"General",
     quote:
       "I came looking for financial solutions, but I found a pathway to purpose. PAAB Capital is a divine gateway to real transformation.",
   },
